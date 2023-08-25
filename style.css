@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.name-color{
+    color: rgba(56, 132, 132, 0.916);
+    margin-left: 25%;
+    font-size: 125%;
+
+}
+.helo{
+    
+    color: rgb(14, 14, 14);
+    margin-top: 0%;
+    padding-top: 0%;
+    font-size: 125%;
+
+}
+.name{
+    color: rgba(55, 100, 0, 0.874);
+    
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  
+}
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image:url("header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.helf-width img{
+    width: 60%;
+    margin-left: 0%;
+    padding-left:  0%;
+  
+    
+}
+
+.helf-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+  
+}
+
+.sc{
+    color: rgb(137, 43, 226);
+}
+
+.tt{
+    color: rgb(20, 136, 121);
+}
+
+.middle-banner{
+    background-image:url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.work-width img{
+    width: 15%;
+    float: left;
+    margin-left: 15%;
+    padding-left: 6%;
+}
+.wark-width img{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+
+.werk-width img{
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+
+.last{
+    text-align: center;
+    color: rgba(75, 194, 11, 0.873);
+}
+.client{
+    text-align: center;
+    color: rgba(1, 1, 0, 0.873);
+    font-weight: 1000;
+}
+
+.lit{
+    
+    background-image:linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 43%;
+  
+    
+  
+}
+.tj{
+    text-decoration: none; 
+    text-align: center;
+    color: white;
+}
+
+.e{
+    margin-left: 60px;
+    font-weight: 1000;
+    
+}
+.last-banner{
+    background-image:url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.link:visited {
+    color: rgb(128, 0, 0);
+  }
+.link:hover {
+    color: rgb(32, 35, 211);
+  }
+
+  .work-width img:hover{
+    width: 20%;
+  }
+
+  .name:hover{
+    font-size: 100%;
+  }
